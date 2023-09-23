@@ -1,6 +1,15 @@
 # tarea456
 
-A new Flutter project.
+Tarea Diseño de apps
+Desarrolle una pantalla que contenga los siguientes campos: 
+
+Nombre(s)
+Apellido Paterno
+Apellido Materno 
+Tel.
+Correo electrónico
+Edad
+
 
 ## Getting Started
 
